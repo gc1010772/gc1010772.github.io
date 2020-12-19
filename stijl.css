@@ -1,0 +1,35 @@
+h1 {
+	color: #99b3ff;
+	font-family:'Edwardian Script ITC';
+	font-size:50pt;
+}
+
+h2 {
+		color: #99b3ff;
+	font-family:'Poor Richard';
+	font-size:30pt;
+}
+h4 {
+		color: #99b3ff;
+	font-family:'Poor Richard';
+	font-size:25pt;
+	text-align:center;
+}
+h3 {
+		color: white;
+	font-family:'Poor Richard';
+	font-size:20pt;
+	text-align:center;
+}
+
+
+#title {
+		color: #99b3ff;
+	font-family:'Poor Richard';
+	text-align:center;
+	font-size:70pt;
+}
+
+body {
+	background-color:Lavender;
+}
